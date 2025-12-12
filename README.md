@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 🔭 I’m currently working on:<br>Building AI-powered systems including a Digital Immortality project, UTR verification system with Gemini + IPFS, and a no-code Agent Builder (BoltChain Agents) for a hackathon.<br><br>🤝 I’m looking to collaborate on:<br>AI/ML projects, blockchain-integrated apps, Next.js tooling, and full-stack projects involving intelligent agents or automation.<br><br>🧠 I’m looking for help with:<br>Advanced model optimization, multi-agent systems, and integrating scalable AI pipelines with Web3.<br><br>🌱 I’m currently learning:<br>Deep Learning systems, advanced NLP, SVM/Regression-based ML modelling, Next.js App Router best practices, and PostgreSQL-based backend workflows.<br><br>💬 Ask me about:<br>AI agents, large language models, blockchain integrations, IPFS workflows, Gemini API prompts, and building React/Next.js applications.<br><br>⚡ Fun fact:<br>I can switch from blockchain engineer to AI researcher to full-stack developer — all before my coffee gets cold.
 
 
