@@ -3,36 +3,14 @@
 > *Building intelligent systems at the intersection of AI, blockchain, and full-stack development*
 
 ---
+I'm passionate about building AI-powered products that solve real-world problems. My current work includes a Digital Immortality system, an AI-driven UTR verification platform using Gemini and IPFS, and BoltChain Agents, a no-code platform for creating intelligent AI agents.
 
-## 💫 About Me:
+My interests lie at the intersection of artificial intelligence, machine learning, automation, blockchain, and full-stack development. I'm constantly exploring new technologies, improving my understanding of large language models, and building scalable applications with Next.js and modern backend systems.
 
-🔭 **I'm currently working on:**
-- Building AI-powered systems including a **Digital Immortality project**
-- **UTR verification system** with Gemini + IPFS
-- **BoltChain Agents** — no-code Agent Builder for hackathons
+I enjoy collaborating with people who are excited about innovation and ambitious ideas. Whether it's AI agents, Web3 integrations, or end-to-end product development, I love turning concepts into working solutions.
 
-🤝 **I'm looking to collaborate on:**
-- AI/ML projects, blockchain-integrated apps
-- Next.js tooling and full-stack projects
-- Intelligent agents and automation systems
+Outside of projects and hackathons, I'm always learning, experimenting, and pushing myself to build better systems than the ones I built yesterday.
 
-🧠 **I'm looking for help with:**
-- Advanced model optimization & multi-agent systems
-- Integrating scalable AI pipelines with Web3
-
-🌱 **Currently learning:**
-- Deep Learning systems & advanced NLP
-- SVM/Regression-based ML modelling
-- Next.js App Router best practices
-- PostgreSQL-based backend workflows
-
-💬 **Ask me about:**
-- AI agents, LLMs & prompt engineering
-- Blockchain integrations & IPFS workflows
-- Gemini API & advanced LLM techniques
-- Building React/Next.js applications
-
-⚡ **Fun fact:** I can switch from blockchain engineer to AI researcher to full-stack developer — all before my coffee gets cold ☕
 
 ---
 
