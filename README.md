@@ -16,20 +16,18 @@ Outside of projects and hackathons, I'm always learning, experimenting, and push
 
 ## 🚀 Featured Projects
 
-### 🤖 Digital Immortality Platform
-Cutting-edge AI system for creating persistent digital representations with memory integration and contextual understanding.
-- **Tech:** Python, LLMs, Vector DBs, FastAPI
-- **Status:** 🔄 In Development
+### Digital Immortality Platform
 
-### ⛓️ UTR Verification System (Gemini + IPFS)
-Decentralized identity verification leveraging Google Gemini API and IPFS for secure, scalable verification.
-- **Tech:** Node.js, Gemini API, IPFS, Smart Contracts
-- **Status:** 🔄 In Development
+An AI-powered system designed to create persistent digital representations that can retain memory, understand context, and interact in a way that reflects the knowledge and behavior of a specific individual.
 
-### 🤖 BoltChain Agents
-No-code Agent Builder enabling anyone to create AI agents without technical expertise.
-- **Tech:** Next.js, React, LangChain, Web3.js
-- **Status:** 🎯 Hackathon Project
+### UTR Verification System
+
+A verification platform that combines Gemini and IPFS to securely process, validate, and store transaction-related information while maintaining transparency and decentralization.
+
+### BoltChain Agents
+
+A no-code AI agent builder that allows users to visually create, customize, test, and deploy intelligent agents without writing code, with optional blockchain integration for ownership and distribution.
+
 
 > [View all projects](#)
 
