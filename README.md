@@ -371,7 +371,7 @@ open_to:
   - Research Collaborations
 
 # Connect
-<div align="center"> <a href="mailto:arshsrivastava00@gmail.com"> <img src="https://img.shields.io/badge/Gmail-arshsrivastava00%40gmail.com-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/arshsrivastava72235a300"> <img src="https://img.shields.io/badge/LinkedIn-Arsh%20Srivastava-0A66C2?style=for-the-badge"/> </a> <a href="https://github.com/Arsh123344423"> <img src="https://img.shields.io/badge/GitHub-Arsh123344423-181717?style=for-the-badge"/> </a> <a href="https://your-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge"/> </a> </div>
+<div align="center"> <a href="mailto:arshsrivastava00@gmail.com"> <img src="https://img.shields.io/badge/Gmail-arshsrivastava00%40gmail.com-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/arshsrivastava72235a300"> <img src="https://img.shields.io/badge/LinkedIn-Arsh%20Srivastava-0A66C2?style=for-the-badge"/> </a> <a href="https://github.com/Arsh123344423"> <img src="https://img.shields.io/badge/GitHub-Arsh123344423-181717?style=for-the-badge"/> </a> <a href="https://arsh-portfolio-plum.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge"/> </a> </div>
 <div align="center">
 "Building scalable software, intelligent systems, and impactful products."
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/> </div>
