@@ -1,207 +1,377 @@
-# Hey there! 👋 I'm Arsh Srivastava
-
-> *Building intelligent systems at the intersection of AI, blockchain, and full-stack development*
-
----
-I'm passionate about building AI-powered products that solve real-world problems. My current work includes a Digital Immortality system, an AI-driven UTR verification platform using Gemini and IPFS, and BoltChain Agents, a no-code platform for creating intelligent AI agents.
-
-My interests lie at the intersection of artificial intelligence, machine learning, automation, blockchain, and full-stack development. I'm constantly exploring new technologies, improving my understanding of large language models, and building scalable applications with Next.js and modern backend systems.
-
-I enjoy collaborating with people who are excited about innovation and ambitious ideas. Whether it's AI agents, Web3 integrations, or end-to-end product development, I love turning concepts into working solutions.
-
-Outside of projects and hackathons, I'm always learning, experimenting, and pushing myself to build better systems than the ones I built yesterday.
-
-
----
-
-## 🚀 Featured Projects
-
-### Digital Immortality Platform
-
-An AI-powered system designed to create persistent digital representations that can retain memory, understand context, and interact in a way that reflects the knowledge and behavior of a specific individual.
-
-### UTR Verification System
-
-A verification platform that combines Gemini and IPFS to securely process, validate, and store transaction-related information while maintaining transparency and decentralization.
-
-### BoltChain Agents
-
-A no-code AI agent builder that allows users to visually create, customize, test, and deploy intelligent agents without writing code, with optional blockchain integration for ownership and distribution.
-
-
-> [View all projects](https://arsh-portfolio-plum.vercel.app/)
-
----
-
-## 🌐 Let's Connect
+# <h1 align="center">Arsh Srivastava</h1>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshsrivastava72235a300/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshsrivastava00@gmail.com)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arsh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://yourportfolio.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Arsh%20Srivastava&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Product%20Builder&descAlignY=60"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor;Research+Driven+Developer"/>
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.Tech%20Computer%20Science-Bennett%20University-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Dean's%20List-Award%20Holder-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Google%20Cloud-GenAI%20Academy-6366F1?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Location-Noida%2C%20India-4F46E5?style=for-the-badge)
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/arshsrivastava72235a300">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:arshsrivastava00@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arsh123344423">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
+</a>
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Arsh123344423&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/Arsh123344423?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/stars/Arsh123344423?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+# About Me
 
-<details open>
-<summary><b>Languages & Core Technologies</b></summary>
+Software Engineer and AI Engineer focused on building production-grade systems that combine intelligent automation, scalable backend architecture, and modern user experiences.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+Currently pursuing a Bachelor's degree in Computer Science at Bennett University while actively developing AI-powered applications, fintech systems, developer tooling, cloud-native products, and research-driven software.
+
+### Open To
+
+- Software Engineering Internships
+- AI/ML Engineering Roles
+- Full Stack Development Roles
+- Open Source Collaborations
+- Research Opportunities
+- Product Engineering Teams
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,sql"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma"/>
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,firebase"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,git,github,linux,vscode"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|------------|
+| Generative AI | Advanced | LLM Applications, AI Agents, Prompt Engineering |
+| Retrieval Systems | Advanced | RAG, Vector Databases, Semantic Search |
+| Agentic AI | Advanced | LangGraph, LangChain, Multi-Agent Workflows |
+| NLP | Advanced | Conversational AI, Knowledge Retrieval |
+| Deep Learning | Intermediate | Neural Networks, Model Training |
+| Computer Vision | Intermediate | Multimodal Processing |
+| MLOps | Intermediate | AI Deployment and Monitoring |
+| Applied Research | Intermediate | Multimodal Spatial Temporal Mapping |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>KalaKatha — AI Powered Cultural Storytelling Platform</b></summary>
+
+### Project Overview
+
+KalaKatha generates cultural and historical narratives based on user-selected locations through AI-powered storytelling workflows.
+
+| Category | Details |
+|-----------|---------|
+| Stack | JavaScript, Vercel AI SDK, Google Maps API, Google Cloud |
+| Scale | Real-time AI Story Generation |
+| Performance | Low Latency Response Pipeline |
+| Security | API Validation and Secure Access |
+| Impact | Personalized Cultural Discovery |
+| Repository | Private |
+
+### Engineering Highlights
+
+- Built location-aware storytelling architecture
+- Integrated Google Maps APIs
+- Developed AI-powered narrative generation
+- Implemented responsive frontend experience
+- Connected real-time LLM pipelines
 
 </details>
 
-<details open>
-<summary><b>Frontend & Web</b></summary>
+<details>
+<summary><b>SwiftTrans — AI Powered FinTech Infrastructure</b></summary>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+### Project Overview
 
-</details>
+Enterprise-grade fintech platform combining distributed databases and generative AI workflows.
 
-<details open>
-<summary><b>Backend & Databases</b></summary>
+| Category | Details |
+|-----------|---------|
+| Stack | JavaScript, CockroachDB, Vercel AI SDK |
+| Scale | Horizontally Scalable Backend |
+| Performance | 3x Throughput Improvement |
+| Security | JWT Authentication |
+| Impact | Reduced Manual Verification by 40% |
+| Repository | Private |
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Engineering Highlights
 
-</details>
-
-<details open>
-<summary><b>AI/ML & Data Science</b></summary>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Web3 & Blockchain</b></summary>
-
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+- Architected distributed transaction systems
+- Built AI-powered validation pipelines
+- Designed secure REST APIs
+- Implemented scalable backend architecture
+- Optimized high-volume transaction workflows
 
 </details>
 
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
+<details>
+<summary><b>Digital Immortality Platform</b></summary>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Project Overview
+
+AI platform focused on persistent memory systems and contextual knowledge preservation.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, FastAPI, Vector DBs, LLMs |
+| Scale | Persistent Memory Architecture |
+| Performance | Context Aware Retrieval |
+| Security | Controlled Knowledge Access |
+| Impact | Knowledge Preservation |
+| Repository | In Development |
+
+### Engineering Highlights
+
+- Long-term memory architecture
+- Semantic retrieval pipelines
+- Personalized response generation
+- Vector search implementation
+- Context management systems
 
 </details>
 
-<details open>
-<summary><b>Design & Creative Tools</b></summary>
+<details>
+<summary><b>BoltChain Agents</b></summary>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+### Project Overview
+
+Visual no-code AI Agent Builder with workflow orchestration and optional Web3 integration.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js, React, AI Agents |
+| Scale | Modular Workflow System |
+| Performance | Real-Time Execution |
+| Security | RBAC and Authentication |
+| Impact | Democratized Automation |
+| Repository | Hackathon Project |
+
+### Engineering Highlights
+
+- Visual workflow editor
+- Agent orchestration engine
+- Real-time testing environment
+- Modular execution architecture
+- Exportable workflow definitions
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+# Experience
+
+## React Native Developer Intern | SyinQ
+
+**January 2026 – May 2026**
+
+Worked on mobile product engineering, deployment systems, authentication workflows, and production releases.
+
+### Scope of Work
+
+- Improved UI and user retention
+- Maintained CI/CD pipelines
+- Implemented refresh token architecture
+- Integrated Twilio notifications
+- Built Android and iOS optimizations
+- Assisted in Version 2 release deployment
+
+### Skills
+
+`React Native` `CI/CD` `Authentication` `Mobile Development` `Twilio`
+
+---
+
+# Achievements
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsh123344423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Arsh123344423&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh123344423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Recognition | Details |
+|-------------|---------|
+| Dean's List Award | Academic Excellence with 9.5+ CGPA |
+| Google Cloud GenAI Academy | Gold League Rank 380 |
+| Research Submission | Multimodal Spatio-Temporal Mapping via Drones |
+| AI Society Research Team | Neural Network Research |
+| Product Engineering | Multiple AI and Full Stack Systems |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+# Certifications
 
-- 🥇 **[Your Hackathon Name]** - 1st Place / Finalist
-- 🎓 **[Certification Name]** - Issuing Organization (Year)
-- 📜 **[Course Completion]** - Platform (Year)
+### AWS
 
-> [View complete credentials](#)
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)
 
----
+### Oracle
 
-## 📚 Research Interests & Focus Areas
+![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge)
 
-```
-🔹 Multi-Agent Systems & Autonomous Agents
-🔹 LLM Optimization & Fine-tuning
-🔹 Blockchain + AI Integration
-🔹 Decentralized Identity & Verification
-🔹 Knowledge Graphs & Semantic Search
-🔹 Edge AI & On-Device Models
-🔹 Prompt Engineering & Chain-of-Thought
-```
+### NPTEL
 
----
+![](https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-0056D2?style=for-the-badge)
 
-## 📖 Latest Articles & Blog Posts
+### Cisco
 
-- 📝 [Building AI Agents with LangChain](#) - *Medium Article*
-- 📝 [Web3 Integration Patterns](#) - *Dev.to Article*
-- 📝 [Next.js Performance Optimization](#) - *Personal Blog*
+![](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge)
 
-> [View all articles](#)
+### Google Cloud
+
+![](https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Academy-4285F4?style=for-the-badge)
 
 ---
 
-## 🤝 Open to Opportunities
+# Coding Profiles
 
-I'm actively seeking:
+<div align="center">
 
-- **Contract/Freelance Projects**: Full-stack AI applications, blockchain integrations
-- **Collaborations**: Open-source projects, hackathons, research initiatives
-- **Speaking Engagements**: Tech talks, workshops on AI/ML and Web3
-- **Job Opportunities**: Full-time roles in AI engineering, full-stack development
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com)
 
-**💼 [Download My Resume](#)** | **📧 [Schedule a Call](#)**
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge)](https://www.geeksforgeeks.org)
 
----
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge)](https://hackerrank.com)
 
-## 🔗 Recommended Resources
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com)
 
-### Books
-- *[Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)* - Aurélien Géron
-- *[The Blockchain Developer](https://www.paulg.com/articles.html)* - Distributed Systems
-- *[Next.js by Example](https://nextjs-by-example.com/)* - Vercel
-
-### Courses
-- [Fast.ai Deep Learning](https://www.fast.ai/) - Free ML course
-- [Ethereum Developer Bootcamp](https://www.alchemy.com/university) - Alchemy
-- [LangChain Masterclass](https://www.langchain.com/) - Official Docs
-
-### Tools I Use Daily
-- 🔧 [VS Code](https://code.visualstudio.com/) - Code Editor
-- 🔧 [GitHub Copilot](https://github.com/features/copilot) - AI Pair Programmer
-- 🔧 [Cursor](https://www.cursor.so/) - AI-First IDE
-- 🔧 [Vercel](https://vercel.com/) - Deployment
+</div>
 
 ---
 
-## 📈 What's Next?
+# GitHub Analytics
 
-```
-Q3 2024:
-  ├─ Launch Digital Immortality Beta
-  ├─ Complete UTR Verification System
-  └─ Publish 3 Technical Articles
+<div align="center">
 
-Q4 2024:
-  ├─ Open-source BoltChain Agents
-  ├─ Contribute to major AI projects
-  └─ Speak at 2 Tech Conferences
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arsh123344423&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh123344423&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh123344423&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 💡 Fun Facts & Personal Touches
+# GitHub Trophies
 
-- ☕ Switching roles before coffee gets cold since 2023
-- 🎮 Gamer at heart — Unity & Unreal projects in pipeline
-- 🌍 Based in Delhi, India
-- 🚀 Always up for learning something new
-- 🎵 Code, coffee, and lo-fi hip hop
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Arsh123344423&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh123344423&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+learning:
+  - System Design
+  - Kubernetes
+  - Agentic AI
+  - Distributed Systems
+
+building:
+  - AI Agent Platforms
+  - SaaS Applications
+  - Enterprise Software
+
+exploring:
+  - Multi-Agent Systems
+  - Advanced RAG
+  - Cloud Infrastructure
+
+open_to:
+  - Software Engineering Internships
+  - AI/ML Engineering Roles
+  - Research Collaborations
+
+# Connect
+<div align="center"> <a href="mailto:arshsrivastava00@gmail.com"> <img src="https://img.shields.io/badge/Gmail-arshsrivastava00%40gmail.com-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/arshsrivastava72235a300"> <img src="https://img.shields.io/badge/LinkedIn-Arsh%20Srivastava-0A66C2?style=for-the-badge"/> </a> <a href="https://github.com/Arsh123344423"> <img src="https://img.shields.io/badge/GitHub-Arsh123344423-181717?style=for-the-badge"/> </a> <a href="https://your-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge"/> </a> </div>
+<div align="center">
+"Building scalable software, intelligent systems, and impactful products."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/> </div>
