@@ -1,4 +1,3 @@
-# <h1 align="center">Arsh Srivastava</h1>
 
 <div align="center">
 
