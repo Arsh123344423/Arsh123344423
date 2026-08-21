@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="150" align="center">
-<img src="https://chatgpt.com/s/m_6a87f045ef788191a4743abed895291a" width="130" height="130" alt="Arsh Srivastav" />
+<img src="Arsh Image.PNG" width="130" height="130" alt="Arsh Srivastav" />
 </td>
 <td width="30"></td>
 <td align="left">
