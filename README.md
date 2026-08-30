@@ -1,118 +1,187 @@
 <div align="center">
 
+<img src="./hero.svg" alt="Arsh Srivastava — Hero Banner" width="100%" />
+
+<br/>
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-12101c?style=for-the-badge&logo=gmail&logoColor=F2A93B" alt="Email" /></a>
+<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-12101c?style=for-the-badge&logo=github&logoColor=F3EFE7" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-12101c?style=for-the-badge&logo=linkedin&logoColor=6FCF97" alt="LinkedIn" /></a>
+<a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-12101c?style=for-the-badge&logo=x&logoColor=F3EFE7" alt="X" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-12101c?style=for-the-badge&logo=vercel&logoColor=F2A93B" alt="Portfolio" /></a>
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+- 🎓 B.Tech CS (AIML) @ **Bennett University**, Class of **2027** — based in Delhi, India
+- 💼 Currently a **React Native Intern @ SyinQ**
+- 🏆 **4★ Codeforces** · **550+ LeetCode** solved
+- 🤝 Open to **internships & AI/ML roles**
+- 🚧 Currently building **agent orchestration tooling**
+- ⚡ Fun fact: I like systems that automate the boring parts and get out of the way
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI & Agents**
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-12101c?style=flat-square&logo=langchain&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/LangChain-12101c?style=flat-square&logo=langchain&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/Gemini-12101c?style=flat-square&logo=googlegemini&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/OpenAI-12101c?style=flat-square&logo=openai&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/RAG-12101c?style=flat-square&logo=databricks&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/Vector_DBs-12101c?style=flat-square&logo=pinecone&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/ReactFlow-12101c?style=flat-square&logo=react&logoColor=F2A93B" />
+
+**Backend & Infra**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-12101c?style=flat-square&logo=fastapi&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/Node.js-12101c?style=flat-square&logo=nodedotjs&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/MongoDB-12101c?style=flat-square&logo=mongodb&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/PostgreSQL-12101c?style=flat-square&logo=postgresql&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/CockroachDB-12101c?style=flat-square&logo=cockroachlabs&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/Kafka-12101c?style=flat-square&logo=apachekafka&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/DynamoDB-12101c?style=flat-square&logo=amazondynamodb&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/AWS-12101c?style=flat-square&logo=amazonaws&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/Google_Cloud-12101c?style=flat-square&logo=googlecloud&logoColor=6FCF97" />
+
+**Frontend & Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-12101c?style=flat-square&logo=nextdotjs&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/React-12101c?style=flat-square&logo=react&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/React_Native-12101c?style=flat-square&logo=react&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/Flutter-12101c?style=flat-square&logo=flutter&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-12101c?style=flat-square&logo=tailwindcss&logoColor=F2A93B" />
+
+**Languages & Other**
+<br/>
+<img src="https://img.shields.io/badge/C-12101c?style=flat-square&logo=c&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/TypeScript-12101c?style=flat-square&logo=typescript&logoColor=6FCF97" />
+<img src="https://img.shields.io/badge/Python-12101c?style=flat-square&logo=python&logoColor=F2A93B" />
+<img src="https://img.shields.io/badge/IPFS-12101c?style=flat-square&logo=ipfs&logoColor=F3EFE7" />
+<img src="https://img.shields.io/badge/Web3-12101c?style=flat-square&logo=web3dotjs&logoColor=6FCF97" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
 <table>
-  <tr>
-    <td width="170" align="center">
-      <img src="Arsh Image.PNG" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Arsh Srivastava"/>
-    </td>
-    <td width="30"></td>
-    <td align="left">
-      <h2 style="margin:0; color:#F3EFE7;">ARSH SRIVASTAVA</h2>
-      <sub>Software Engineer · AI/ML Engineer</sub>
-      <br/><br/>
-      Building AI agents, fintech infrastructure & the occasional web3 experiment.
-      <br/>
-      I like systems that automate the boring parts and get out of the way.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/agentic%20ai-1a1729?style=flat-square&labelColor=1a1729&color=6FCF97" height="22"/>
-      <img src="https://img.shields.io/badge/full--stack-1a1729?style=flat-square&labelColor=1a1729&color=6FCF97" height="22"/>
-      <img src="https://img.shields.io/badge/fintech-1a1729?style=flat-square&labelColor=1a1729&color=6FCF97" height="22"/>
-      <img src="https://img.shields.io/badge/RAG-1a1729?style=flat-square&labelColor=1a1729&color=6FCF97" height="22"/>
-      <img src="https://img.shields.io/badge/LangGraph-1a1729?style=flat-square&labelColor=1a1729&color=6FCF97" height="22"/>
-      <br/><br/>
-      🎓 B.Tech CS (AIML) · Bennett University '27 &nbsp;·&nbsp; 📍 Delhi, India
-      <br/>
-      🛠️ React Native Intern @ SyinQ &nbsp;·&nbsp; 🏆 4★ Codeforces · 550+ LeetCode
-      <br/><br/>
-      <a href="mailto:arshsrivastava00@gmail.com">
-        <img src="https://img.shields.io/badge/Email-F2A93B?style=flat-square&logoColor=12101c&color=F2A93B" height="24"/>
-      </a>
-      <a href="https://github.com/Arsh123344423">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24"/>
-      </a>
-      <a href="https://linkedin.com/in/arshsrivastava72235a300">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/>
-      </a>
-      <a href="https://x.com/ArshSri01642844">
-        <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="24"/>
-      </a>
-      <a href="https://arsh-tech.in/">
-        <img src="https://img.shields.io/badge/Portfolio-1a1729?style=flat-square&color=1a1729&labelColor=1a1729" height="24"/>
-      </a>
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=Arsh123344423&style=flat-square&label=views&labelColor=1a1729&color=F2A93B" height="20"/>
-      <img src="https://img.shields.io/github/followers/Arsh123344423?style=flat-square&label=followers&labelColor=1a1729&color=F2A93B" height="20"/>
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Arsh123344423&label=repos&query=%24.public_repos&style=flat-square&labelColor=1a1729&color=F2A93B" height="20"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔋 SkillCAD EV
+AWS + Kafka pipeline with LangGraph multi-agent workflows for predictive battery analytics.
+
+`AWS` `Kafka` `LangGraph` `Multi-Agent`
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 SwiftTrans
+Distributed fintech backend that scaled transactional throughput **3×** under load.
+
+`CockroachDB` `Vercel AI SDK` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 KalaKatha
+AI co-pilot for traditional artisans, bridging craft with commerce.
+
+`Flutter` `Firebase` `Next.js` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 PLQ
+Enterprise-grade PII redaction pipeline with high-precision NER.
+
+`spaCy` `Presidio` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 NeuroFlow
+Cognitive prosthetic for the neurodiverse workforce, powered by RAG.
+
+`Next.js` `Azure OpenAI` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Git (upstream)
+Open-source contribution improving CLI checkout messaging.
+
+`C` `Open Source` `Git Internals`
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-🟢 Open to internships & AI/ML roles · Currently building agent orchestration tooling
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=12101c&title_color=F2A93B&icon_color=6FCF97&text_color=F3EFE7&border_color=1a1729&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&bg_color=F3EFE7&title_color=d98d1f&icon_color=2e9465&text_color=12101c&border_color=e5ddce&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=12101c&title_color=F2A93B&text_color=F3EFE7&border_color=1a1729&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&bg_color=F3EFE7&title_color=d98d1f&text_color=12101c&border_color=e5ddce&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh123344423&bg_color=12101c&color=F2A93B&line=F2A93B&point=6FCF97&area=true&area_color=1a1729&title_color=F3EFE7&text_color=928D9F&hide_border=true" width="720"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=your-username&theme=dark&background=12101c&ring=6FCF97&fire=F2A93B&currStreakLabel=F3EFE7&sideNums=F3EFE7&sideLabels=F3EFE7&border=1a1729" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=your-username&theme=default&background=F3EFE7&ring=2e9465&fire=d98d1f&currStreakLabel=12101c&sideNums=12101c&sideLabels=12101c&border=e5ddce" />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark" alt="GitHub Streak" width="80%" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=12101c&color=F2A93B&line=6FCF97&point=F3EFE7&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=default&bg_color=F3EFE7&color=d98d1f&line=2e9465&point=12101c&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" alt="Activity Graph" width="90%" />
+</picture>
 
 </div>
 
----
+<br/>
 
-### 🔭 Currently Building
-
-- **Agent orchestration tooling** — multi-agent systems, LangGraph workflows & no-code agent builders
-- **SkillCAD EV** — high-throughput EV telemetry + predictive battery analytics
-- Experiments in digital immortality, UTR verification (Gemini + IPFS) and fintech rails
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[SkillCAD EV](https://github.com/Arsh123344423/SkillCAD_EV_V1)** | AWS + Kafka pipeline with LangGraph multi-agent workflows for predictive battery analytics | LangGraph · Gemini · Kafka · DynamoDB · FastAPI · AWS |
-| **[SwiftTrans](https://github.com/Arsh123344423/SwiftTrans)** | Distributed fintech backend that scaled transactional throughput 3× under load | CockroachDB · Vercel AI SDK · JWT · GenAI validation |
-| **[KalaKatha](https://github.com/Arsh123344423/KalaKatha)** | AI co-pilot for traditional artisans — full-stack Flutter app with payments & geospatial discovery | Flutter · Firebase · Google Maps · Vercel AI SDK |
-| **[PLQ](https://github.com/Arsh123344423/PlQ)** | Enterprise-grade PII redaction pipeline with high-precision NER | spaCy Presidio · Scikit-learn · Python |
-| **[NeuroFlow](https://github.com/Arsh123344423/NeuroFlow)** | Cognitive prosthetic for the neurodiverse workforce using RAG | Next.js · Azure OpenAI · RAG |
-| **Git (upstream)** | Open-source contribution improving CLI checkout messaging & error diagnostics | C · Git internals |
-
-### 🧠 What I Care About
-
-- AI that is **part of the architecture**, not bolted on later
-- Systems that scale from 100 → 100M users
-- Clean full-stack products with real databases, typed APIs and intentional UI
-- Multi-agent systems, production RAG pipelines and agent orchestration
-- Open source (contributions to Git, exploring formal methods & limit)
-
-### 🛠️ Tech Stack
-
-**AI & Agents**
-`LangGraph` `LangChain` `Gemini` `OpenAI` `RAG` `Vector DBs` `ReactFlow`
-
-**Backend & Infra**
-`FastAPI` `Node.js` `PostgreSQL` `CockroachDB` `Kafka` `DynamoDB` `AWS` `Docker` `Kubernetes`
-
-**Frontend & Mobile**
-`Next.js` `React` `Flutter` `Three.js` `Framer Motion` `GSAP`
-
-**Other**
-`C` `IPFS` `Web3` `TypeScript` `Python`
-
-### 📊 GitHub Stats
+## 🏆 Competitive Programming
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arsh123344423&show_icons=true&theme=dark&bg_color=12101c&title_color=F2A93B&icon_color=6FCF97&text_color=F3EFE7&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh123344423&layout=compact&theme=dark&bg_color=12101c&title_color=F2A93B&text_color=F3EFE7&hide_border=true" height="160"/>
+<img src="https://img.shields.io/badge/Codeforces-4★_Rated-6FCF97?style=for-the-badge&logo=codeforces&logoColor=F3EFE7&labelColor=12101c" />
+<img src="https://img.shields.io/badge/LeetCode-550%2B_Solved-F2A93B?style=for-the-badge&logo=leetcode&logoColor=F3EFE7&labelColor=12101c" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-⚡ Fun fact: I can switch from blockchain engineer → AI researcher → full-stack developer before my coffee gets cold.
+### 💬 "Building the boring infrastructure so the interesting ideas can ship."
 
-Always happy to chat about agents, systems design, or interesting problems.
+<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6FCF97&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
