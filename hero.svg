@@ -40,9 +40,23 @@
         border: 1px solid rgba(243,239,231,0.10);
         overflow: hidden;
         position: relative;
-        background: linear-gradient(135deg, #1a1729 0%, #2d1b4e 50%, #1a1729 100%);
+        background-image: url('https://raw.githubusercontent.com/Arsh123344423/Arsh123344423/main/download.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
         animation: floatCard 5s ease-in-out infinite,
                    glow 6s ease-in-out infinite;
+      }
+
+      .card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(26, 23, 41, 0.35);
+        z-index: 1;
       }
 
       .avatar-ring {
@@ -138,7 +152,9 @@
         .card {
           color: #12101c;
           border: 1px solid rgba(18,16,28,0.08);
-          background: linear-gradient(135deg, #f5f5f5 0%, #efefef 50%, #f5f5f5 100%);
+        }
+        .card::before {
+          background: rgba(243,239,231,0.25);
         }
         .name { color: #12101c; text-shadow: none; }
         .bio { color: rgba(18,16,28,0.80); text-shadow: none; }
@@ -164,11 +180,7 @@
     <xhtml:div class="card-wrap">
       <xhtml:div class="card">
         <xhtml:div class="avatar-ring">
-          <xhtml:svg class="avatar" width="148" height="148" viewBox="0 0 148 148" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="74" cy="74" r="72" fill="#2d1b4e"/>
-            <circle cx="74" cy="50" r="28" fill="#6FCF97"/>
-            <ellipse cx="74" cy="110" rx="38" ry="35" fill="#6FCF97"/>
-          </xhtml:svg>
+          <xhtml:img class="avatar" src="https://raw.githubusercontent.com/Arsh123344423/Arsh123344423/main/Arsh%20Image.PNG" alt="Arsh Srivastava" />
         </xhtml:div>
         <xhtml:div class="content">
           <xhtml:p class="tagline">Software Engineer · AI/ML Engineer</xhtml:p>
