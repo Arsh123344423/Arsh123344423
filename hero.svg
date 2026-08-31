@@ -40,7 +40,7 @@
         border: 1px solid rgba(243,239,231,0.10);
         overflow: hidden;
         position: relative;
-        background-image: url('https://raw.githubusercontent.com/Arsh123344423/Arsh123344423/main/download.jpg');
+        background: linear-gradient(135deg, #1a1729 0%, #2d1f3d 100%);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -180,7 +180,7 @@
     <xhtml:div class="card-wrap">
       <xhtml:div class="card">
         <xhtml:div class="avatar-ring">
-          <xhtml:img class="avatar" src="https://raw.githubusercontent.com/Arsh123344423/Arsh123344423/main/Arsh%20Image.PNG" alt="Arsh Srivastava" />
+          <xhtml:img class="avatar" src="https://github.com/Arsh123344423/Arsh123344423/blob/main/Arsh%20Image.PNG?raw=true" alt="Arsh Srivastava" />
         </xhtml:div>
         <xhtml:div class="content">
           <xhtml:p class="tagline">Software Engineer · AI/ML Engineer</xhtml:p>
