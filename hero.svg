@@ -40,10 +40,10 @@
         border: 1px solid rgba(243,239,231,0.10);
         overflow: hidden;
         position: relative;
-        background: linear-gradient(135deg, #1a1729 0%, #2d1f3d 100%);
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+        background: linear-gradient(135deg, #1a1729 0%, #2d1f3d 100%), url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320"><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(111,207,151,0.03)" stroke-width="0.5"/></pattern></defs><rect width="1000" height="320" fill="url(%23grid)"/></svg>');
+        background-size: cover, 40px 40px;
+        background-position: center, 0 0;
+        background-repeat: no-repeat, repeat;
         animation: floatCard 5s ease-in-out infinite,
                    glow 6s ease-in-out infinite;
       }
@@ -57,6 +57,18 @@
         bottom: 0;
         background: rgba(26, 23, 41, 0.35);
         z-index: 1;
+      }
+
+      .user-id {
+        position: absolute;
+        top: 12px;
+        right: 20px;
+        font-size: 11px;
+        font-weight: 600;
+        color: rgba(243,239,231,0.5);
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        z-index: 3;
       }
 
       .avatar-ring {
@@ -156,6 +168,9 @@
         .card::before {
           background: rgba(243,239,231,0.25);
         }
+        .user-id {
+          color: rgba(18,16,28,0.5);
+        }
         .name { color: #12101c; text-shadow: none; }
         .bio { color: rgba(18,16,28,0.80); text-shadow: none; }
         .tagline { color: #d98d1f; text-shadow: none; }
@@ -179,6 +194,7 @@
   <foreignObject x="0" y="0" width="1000" height="320">
     <xhtml:div class="card-wrap">
       <xhtml:div class="card">
+        <xhtml:div class="user-id">Arsh123344423</xhtml:div>
         <xhtml:div class="avatar-ring">
           <xhtml:img class="avatar" src="https://github.com/Arsh123344423/Arsh123344423/blob/main/Arsh%20Image.PNG?raw=true" alt="Arsh Srivastava" />
         </xhtml:div>
