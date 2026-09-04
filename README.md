@@ -136,32 +136,15 @@ Open-source contribution improving CLI checkout messaging.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=12101c&title_color=F2A93B&icon_color=6FCF97&text_color=F3EFE7&border_color=1a1729&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&bg_color=F3EFE7&title_color=d98d1f&icon_color=2e9465&text_color=12101c&border_color=e5ddce&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=12101c&title_color=F2A93B&text_color=F3EFE7&border_color=1a1729&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&bg_color=F3EFE7&title_color=d98d1f&text_color=12101c&border_color=e5ddce&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" width="49%" />
-</picture>
-
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=your-username&theme=dark&background=12101c&ring=6FCF97&fire=F2A93B&currStreakLabel=F3EFE7&sideNums=F3EFE7&sideLabels=F3EFE7&border=1a1729" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=your-username&theme=default&background=F3EFE7&ring=2e9465&fire=d98d1f&currStreakLabel=12101c&sideNums=12101c&sideLabels=12101c&border=e5ddce" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark" alt="GitHub Streak" width="80%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arsh123344423&theme=dark&background=12101c&ring=6FCF97&fire=F2A93B&currStreakLabel=F3EFE7&sideNums=F3EFE7&sideLabels=F3EFE7&border=1a1729" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Arsh123344423&theme=default&background=F3EFE7&ring=2e9465&fire=d98d1f&currStreakLabel=12101c&sideNums=12101c&sideLabels=12101c&border=e5ddce" />
+  <img src="https://streak-stats.demolab.com?user=Arsh123344423&theme=dark" alt="GitHub Streak" width="80%" />
 </picture>
 
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=12101c&color=F2A93B&line=6FCF97&point=F3EFE7&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=default&bg_color=F3EFE7&color=d98d1f&line=2e9465&point=12101c&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" alt="Activity Graph" width="90%" />
-</picture>
 
 </div>
 
@@ -182,6 +165,6 @@ Open-source contribution improving CLI checkout messaging.
 
 ### 💬 "Building the boring infrastructure so the interesting ideas can ship."
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6FCF97&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Arsh123344423&style=for-the-badge&color=6FCF97&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
