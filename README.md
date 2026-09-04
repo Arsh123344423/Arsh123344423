@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CS (AIML) @ **Bennett University**, Class of **2027** — based in Delhi, India
-- 💼 Currently a **React Native Intern @ SyinQ**
+- 💼 Previously a **React Native Intern @ SyinQ**
 - 🏆 **4★ Codeforces** · **550+ LeetCode** solved
 - 🤝 Open to **internships & AI/ML roles**
 - 🚧 Currently building **agent orchestration tooling**
